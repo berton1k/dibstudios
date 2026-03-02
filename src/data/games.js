@@ -113,7 +113,7 @@ export const studioGames = [
   },
   {
     id: 'snipers',
-    title: '[💎GEMS] Snipers',
+    title: 'Snipers',
     image: '/assets/sni-D9JpTYKh.png',
     thumbnail: '/assets/sni-D9JpTYKh.png',
     shortDescription:
@@ -148,5 +148,5 @@ export const studioGames = [
 export const studioStats = [
   { label: 'Visits We Produced', value: 3208900000, suffix: '+' },
   { label: 'Players We Engaged', value: 99000, suffix: '+' },
-  { label: "Projects We've Grown", value: 9, suffix: '' },
+  { label: "Projects We've Grown", value: 8, suffix: '' },
 ]
